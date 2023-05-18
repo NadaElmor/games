@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/games/static/css/main.8059f88f.css",
+    "main.js": "/games/static/js/main.d9bb1d6c.js",
+    "static/js/787.d1340d69.chunk.js": "/games/static/js/787.d1340d69.chunk.js",
+    "static/media/paladins.png": "/games/static/media/paladins.b44d33d6e7ee1ba8.0fddd1fbe0a5e0a0af93.png",
+    "static/media/gaming.jpg": "/games/static/media/gaming.ebaf2ffc84f4451d.d5751ff804c935b205d3.jpg",
+    "static/media/logo1.png": "/games/static/media/logo1.548dc5719c2345c22eef.png",
+    "static/media/logo.svg": "/games/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/games/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/games/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/games/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/games/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/games/index.html",
+    "main.8059f88f.css.map": "/games/static/css/main.8059f88f.css.map",
+    "main.d9bb1d6c.js.map": "/games/static/js/main.d9bb1d6c.js.map",
+    "787.d1340d69.chunk.js.map": "/games/static/js/787.d1340d69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8059f88f.css",
+    "static/js/main.d9bb1d6c.js"
+  ]
+}
